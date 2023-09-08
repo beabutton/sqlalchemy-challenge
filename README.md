@@ -22,4 +22,6 @@ https://github.com/yeyanwang/sqlalchemy-challenge/blob/main/SurfsUp/app.py
 
 https://stackoverflow.com/questions/4636970/sqlite3-operationalerror-unable-to-open-database-file
 
+ascii art: https://asciiart.cc/t-10741/surfing
+
 
